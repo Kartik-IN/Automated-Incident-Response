@@ -1,0 +1,4 @@
+[
+  {"id":"synthetic-001","title":"Suspicious outbound connection","severity":"high","confidence":0.91,"source":"demo-sensor","timestamp":"2026-09-30T08:00:00Z","indicators":["192.0.2.10"],"synthetic":true},
+  {"id":"synthetic-002","title":"Repeated login failures","severity":"medium","confidence":0.82,"source":"demo-sensor","timestamp":"2026-09-30T08:05:00Z","indicators":["198.51.100.10"],"synthetic":true}
+]

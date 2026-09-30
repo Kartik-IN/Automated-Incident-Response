@@ -1,0 +1,1 @@
+{"192.0.2.10": {"asset_id": "demo-web-01", "criticality": "high", "owner": "synthetic-platform"}, "demo-host.example": {"asset_id": "demo-host-01", "criticality": "medium"}}

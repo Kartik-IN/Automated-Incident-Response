@@ -1,0 +1,1 @@
+{"enabled": true, "providers": ["asset_inventory", "allowlist", "synthetic_fixture"], "external_network_calls": false, "rest": {"enabled": false, "timeout_seconds": 3, "min_interval_seconds": 1}}

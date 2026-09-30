@@ -1,0 +1,8 @@
+{
+  "severity_threshold": "medium",
+  "confidence_threshold": 0.7,
+  "allowlists": {"ips": ["192.0.2.10", "198.51.100.10"], "domains": []},
+  "action_mappings": {"low": "log_only", "medium": "enrich_and_notify", "high": "containment_review", "critical": "containment_review"},
+  "dry_run": true,
+  "analyst_approval_required": ["containment_review"]
+}
